@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ex nihilo nihil fit.
 Use the left arrow to go back!
